@@ -18,7 +18,7 @@ how our data is distributed like the price distribution and also understand othe
 that help ud to have a deep insight of our data 
 bellow we have some visualization from some pythone libararies like seaborn matplotlib:
 
-![image](./png_file/datasets.png) 
+![image](./png_file/describe.png) 
 
 
 Now let's dive into the results of the `describe()` function and the metrics we have in front of us, to gain a better understanding of the characteristics of this dataset:
@@ -51,6 +51,12 @@ Now let's dive into the results of the `describe()` function and the metrics we 
 
 **Beds**:
 - The average listing offers **1.72 beds**, indicating that many properties are small, likely **1-bedroom apartments or studios**. The maximum number of beds in a listing is **42**, suggesting that there are some large, group-oriented properties.
+
+![image](./png_file/price_distribution.png)
+
+In this plot, we attempted to visualize the full distribution of Airbnb listing prices. However, we can see that the vast majority of prices are clustered near $0, while the x-axis extends all the way up to \$100,000. This is because there are some extremely high-priced listings (outliers) that skew the distribution and compress the visual representation of most listings. As a result, the bulk of listings, which are priced much lower, are squeezed into a very narrow section of the plot, making it difficult to see meaningful trends.
+
+To solve this, we will apply a price cap and only consider listings with prices up to \$1000 to get a clearer view of the price distribution for the majority of listings.
 
 
 
