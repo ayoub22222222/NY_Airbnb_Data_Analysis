@@ -8,6 +8,7 @@ This project is focused on acquiring NYC datasets, performing data cleaning, and
 - description: This dataset contains all the information needed about the New York Airbnb listings.
 It contains useful features such as latitude, longitude, room type, price, ratings, bedrooms, beds, baths, among others.
 - access: This data is accessible through this repository, but you can also find it on Kaggle and access it via an API if preferred.
+
 ![image](NYC_datasets.png)
 
 ## executive summary
