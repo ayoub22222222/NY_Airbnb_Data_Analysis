@@ -1,6 +1,8 @@
-# project Background or title 
+# NYC Airbnb Data Analysis 
 - a consise and descritptive title 
--separate the main technical links from the ReadMe
+this project is designed to get NYC datasets and clean it 
+after that we will try to answer some business quetion by visualazing 
+our finding and deiver an comprehensive result to business departemnt  
 
 # project overveiw
 - purpose: a brief explaination of the projects objective
