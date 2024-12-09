@@ -9,17 +9,16 @@ This project is focused on acquiring NYC datasets, performing data cleaning, and
 It contains useful features such as latitude, longitude, room type, price, ratings, bedrooms, beds, baths, among others.
 - access: This data is accessible through this repository, but you can also find it on Kaggle and access it via an API if preferred.
 
-![image](NYC_datasets.png)
+![image](./datasets.png)
 
 ## executive summary
-- language
-- libraries
-- tools
-- Envirment
+**overview of finding**
+after cleaning and formating our data we preform some exploratory data analysis to have an ideas about 
+how our data is distributed like the price distribution and also understand other statistical metrics using the describe mthode
+that help ud to have a deep insight of our data 
+bellow we have some visualization from some pythone libararies like seaborn matplotlib:
+![image](./datasets.png) 
 
-## insight Deep Dive
--- Key findings or outcomes of the analysis.
-Include visualizations, charts, or summaries (if applicable)
 
 ##  Recommendation
 
