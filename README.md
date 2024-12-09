@@ -1,8 +1,5 @@
 # NYC Airbnb Data Analysis 
-- a consise and descritptive title 
-this project is designed to get NYC datasets and clean it 
-after that we will try to answer some business quetion by visualazing 
-our finding and deiver an comprehensive result to business departemnt  
+This project is focused on acquiring NYC datasets, performing data cleaning, and analyzing the information to address key business questions. By visualizing the findings, we aim to deliver comprehensive insights and actionable results to support the decision-making needs of the business department. 
 
 # project overveiw
 - purpose: a brief explaination of the projects objective
