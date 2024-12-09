@@ -58,6 +58,16 @@ In this plot, we attempted to visualize the full distribution of Airbnb listing 
 
 To solve this, we will apply a price cap and only consider listings with prices up to \$1000 to get a clearer view of the price distribution for the majority of listings.
 
+![image](./png_file/price_distribution1.png)
+
+In this second plot, we restricted the dataset to only include listings priced at \$1000 or below, which represents the vast majority of listings. As a result, we can now see a more detailed distribution:
+
+Most listings fall within the \$50 to \$300 range, with a peak around \$150 per night.
+The distribution is right-skewed, meaning that while there are many affordable listings, a small number of higher-priced listings are still present.
+This plot gives a much clearer view of the typical prices for Airbnb listings in New York City, without the distortion caused by a few extreme outliers.
+
+
+
 
 
 ##  Recommendation
