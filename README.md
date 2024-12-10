@@ -101,6 +101,6 @@ From the bar plot, we can see how Airbnb prices vary across NYC’s neighborhood
 
 ##  Recommendation
 
-for the recomandation section i lef it empty cuz the purpose of this prijects is to demostrate my ability conduct basic data analysis project like performing some clening, decriptive statiscs and visualize the finding 
+For the recommendation section, I left it empty as the purpose of this project is to demonstrate my ability to conduct a basic data analysis project, including tasks such as data cleaning, performing descriptive statistics, and visualizing the findings. 
 
 
