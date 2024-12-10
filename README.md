@@ -66,6 +66,24 @@ Most listings fall within the \$50 to \$300 range, with a peak around \$150 per 
 The distribution is right-skewed, meaning that while there are many affordable listings, a small number of higher-priced listings are still present.
 This plot gives a much clearer view of the typical prices for Airbnb listings in New York City, without the distortion caused by a few extreme outliers.
 
+To improve clarity in our analysis moving forward, we will address these outliers by applying a price cap and filter on our data, allowing us to focus on the majority of Airbnb listings.
+
+![image](./png_file/pd_over_room.png)
+
+The majority of Airbnb listings are concentrated in the lower price ranges, particularly for **private rooms** and **entire homes/appartments**. This reinforces the notion that Airbnb is largely a platform for more affordable, short-term stays. As prices increase, the number of listings decreases significantly, with only a few high-end listings surpassing **$1000 USD**.
+
+**bold text**###**4.3. Relationship Between Price and Number of Reviews**
+
+![image](./png_file/relationship_b_price_nrview.png)
+
+# The scatter plot shows that:
+
+- **Lower-priced listings** (below $1,000 USD) tend to have more reviews, with many reaching over 500 reviews. This suggests that affordable listings are booked more often, leading to more reviews.
+
+- **Higher-priced listings** (above $2,000 USD) generally have fewer reviews, indicating that luxury or high-cost properties are booked less frequently, possibly catering to a more selective audience.
+
+Which means : There is an **inverse relationship** between **price** and the number of **reviews**: cheaper listings get more reviews, while expensive listings tend to have fewer.
+
 
 
 
