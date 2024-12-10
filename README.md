@@ -72,7 +72,7 @@ To improve clarity in our analysis moving forward, we will address these outlier
 
 The majority of Airbnb listings are concentrated in the lower price ranges, particularly for **private rooms** and **entire homes/appartments**. This reinforces the notion that Airbnb is largely a platform for more affordable, short-term stays. As prices increase, the number of listings decreases significantly, with only a few high-end listings surpassing **$1000 USD**.
 
-**bold text**###**4.3. Relationship Between Price and Number of Reviews**
+**4.3. Relationship Between Price and Number of Reviews**
 
 ![image](./png_file/relationship_b_price_nrview.png)
 
@@ -84,10 +84,23 @@ The majority of Airbnb listings are concentrated in the lower price ranges, part
 
 Which means : There is an **inverse relationship** between **price** and the number of **reviews**: cheaper listings get more reviews, while expensive listings tend to have fewer.
 
+###**4.4. Average Price of Airbnb Listings by Neighborhood Group**
+
+![image](./png_file/avg_price_n.png)
+
+From the bar plot, we can see how Airbnb prices vary across NYC’s neighborhoods:
+
+- **Manhattan** tops the chart with average prices over $200 USD per night. This makes sense since it’s a prime location with high demand.
+
+- **Brooklyn** comes in next, with listings averaging around $150 USD—a popular, slightly more affordable option compared to Manhattan.
+
+- **Queens**, **Staten Island**, and the **Bronx** offer the most budget-friendly stays, all averaging under $100 USD per night, making them great choices for travelers looking for affordability.
 
 
 
 
 ##  Recommendation
+
+for the recomandation section i lef it empty cuz the purpose of this prijects is to demostrate my ability conduct basic data analysis project like performing some clening, decriptive statiscs and visualize the finding 
 
 
